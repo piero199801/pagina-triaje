@@ -1,2 +1,0 @@
-# pagina-triaje
-triaje-covid
