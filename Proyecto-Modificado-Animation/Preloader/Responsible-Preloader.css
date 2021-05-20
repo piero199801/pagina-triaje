@@ -1,0 +1,81 @@
+@media screen and (max-width: 425px){
+	.Preloader-Logo img{
+		width:300px;
+
+	}.button-mb{
+		margin-top:-33%;
+	}.Nombre-Problema{
+		margin-left: 87px;
+	}
+}
+@media screen and (max-width: 385px){
+	.Preloader-Logo img{
+		width:280px;
+
+	}.button-mb{
+		margin-top:-35%;
+	}.Nombre-Problema{
+		margin-left: 85px;
+	}
+}
+@media screen and (max-width: 363px){
+	.Preloader-Logo img{
+		width:260px;
+
+	}.button-mb{
+		margin-top:-38%;
+	}.Nombre-Problema{
+		margin-left: 83px;
+	}
+}
+
+@media screen and (max-width: 411px){
+	.Bton{
+		margin-left: 47px;
+
+	}.button-mb{
+		margin-top:-40%;
+	}.Nombre-Problema{
+		margin-left: 80px;
+	}
+}
+@media screen and (max-width: 400px){
+	.Bton{
+		margin-left: 44px;
+
+	}.Nombre-Problema{
+		margin-left: 78px;
+	}
+}
+@media screen and (max-width: 382px){
+	.Bton{
+		margin-left: 40px;
+
+	}.button-mb{
+		margin-top:-45%;
+	}.Nombre-Problema{
+		margin-left: 75px;
+	}
+}
+@media screen and (max-width: 425px){
+	.Bar-Menu p{
+		padding-top:80px;
+	}
+	}
+
+@media screen and (max-width: 355px){
+	.Bton{
+		margin-left: 38px;
+
+	}.Nombre-Problema{
+		margin-left: 73px;
+	}
+}
+@media screen and (max-width: 320px){
+	.Bton{
+		margin-left: 35px;
+
+	}.Nombre-Problema{
+		margin-left: 70px;
+	}
+}

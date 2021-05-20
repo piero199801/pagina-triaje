@@ -1,0 +1,82 @@
+body,html{
+	font-family: sans-serif;
+	margin: 0;
+	background: url(imagenfondo.jpg);
+	background-size: cover;
+	background-attachment: fixed; 
+	 
+}
+.Sonb{
+	height: 100%;
+	width: 100%;
+	background:rgba(0,0,0,0.7);
+}
+.icon-sombr{
+	position: absolute;
+    top: 20%;
+  width: 100%;
+  height: 35%;
+  display: flex;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+
+}
+.icon-sombr img{
+	width: 380px;
+	transition-property: width,height;
+	transition-duration: 1s;
+}
+.Pre-Loader{
+position: absolute;
+left: 50%;
+top: 75%;
+}
+.Pre-Loader span{
+	height: 1.5em;
+	width: 1.5em;
+	background: #fff;
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	border-radius: 50%;
+	animation: wave 2s ease-in-out infinite;
+}
+.Pre-Loader span:nth-child(1){
+left: -3.5em;
+animation-delay: 0s;
+background: #1CB5EA;
+}
+.Pre-Loader span:nth-child(2){
+left: -1.5em;
+animation-delay: 0.1s;
+background: #7150C8;
+}
+.Pre-Loader span:nth-child(3){
+left: 0.5em;
+animation-delay: 0.2s;
+background: #E89D43;
+}
+.Pre-Loader span:nth-child(4){
+left: 2.5em;
+animation-delay: 0.3s;
+background: #B492E5;
+}
+
+@keyframes wave{
+	0%,
+	75%,
+	100%{
+		transform: translateY(0em)scale(1);
+	}
+	25%{
+		transform: translateY(2.5em);
+	}
+	50%{
+		transform: translateY(-2.5em)scale(1.1);
+	}
+}
+
+
+

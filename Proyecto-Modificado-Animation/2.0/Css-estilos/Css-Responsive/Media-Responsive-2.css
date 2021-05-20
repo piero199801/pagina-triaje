@@ -1,0 +1,54 @@
+
+@media screen and (max-width: 738px){
+	.imagen-inicio{
+		display: none;
+
+	}
+}
+@media screen and (max-width: 737px){
+	.Login-Principal{
+		transform:translateX(-50%);
+
+	}
+}
+@media screen and (max-width: 668px){
+	.Login-Principal{
+		transform:translateX(-60%);
+
+	}
+}
+@media screen and (max-width: 598px){
+	.Login-Principal{
+		transform:translateX(-72%);
+
+	}
+}
+@media screen and (max-width: 524px){
+	.Login-Principal{
+		transform:translateX(-80%);
+
+	}
+}
+@media screen and (max-width: 425.5px){
+	.Header-top{
+		display: none;
+	}.imagen-inicio{
+		display: none;
+	}.Contendor-principal{
+		display: none;
+	}.Sombra-Escritura-tres{
+		width: 100px;
+	}
+}
+@media screen and (min-width: 426px){
+	.Login-Movil{
+		display: none;
+
+	}
+}
+.button1:hover{
+	background:#0880AA;  
+	font-size: 16px; 
+}
+
+

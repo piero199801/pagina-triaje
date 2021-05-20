@@ -1,0 +1,25 @@
+.Menu-Header-Somos:hover{
+background:rgba(129, 131, 131,.0);
+	box-shadow: 0 0px 15px rgba(0,0,0,.1);
+	border-radius: 6px;
+	transform: scale(1.03);
+}
+
+.Menu-Header-Ubicacion:hover{
+background:rgba(129, 131, 131,.0);
+	box-shadow: 0 0px 15px rgba(0,0,0,.1);
+	border-radius: 6px;
+	transform: scale(1.03);
+}
+.Menu-Header-Contactos-Empresa:hover{
+background:rgba(129, 131, 131,.0);
+	box-shadow: 0 0px 15px rgba(0,0,0,.1);
+	border-radius: 6px;
+	transform: scale(1.03);
+}
+.Menu-Header-Servicios:hover{
+background:rgba(129, 131, 131,.0);
+	box-shadow: 0 0px 15px rgba(0,0,0,.1);
+	border-radius: 6px;
+	transform: scale(1.03);
+}

@@ -1,0 +1,389 @@
+
+@media screen and (max-width: 1300px){
+	.Mune-header{
+		transform:translateX(-5%); 
+	}
+}
+@media screen and (max-width: 1250px){
+	.Mune-header{
+		transform:translateX(-10%); 
+	}
+}
+@media screen and (max-width: 1150px){
+	.Mune-header{
+		transform:translateX(-15%); 
+	}
+}
+@media screen and (max-width: 1050px){
+	.Mune-header{
+		transform:translateX(-25%); 
+	}
+}
+@media screen and (max-width: 990px){
+	.Mune-header{
+		transform:translateX(-25%); 
+	}
+}
+@media screen and (max-width: 980px){
+	.Mune-header{
+		transform:translateX(-25%); 
+	}
+}
+@media screen and (max-width: 970px){
+	.Mune-header{
+		transform:translateX(-30%); 
+	}
+}
+@media screen and (max-width: 960px){
+	.Mune-header{
+		transform:translateX(-30%); 
+	}
+}
+@media screen and (max-width: 950px){
+	.Mune-header{
+		transform:translateX(-30%); 
+	}
+}
+
+
+
+
+
+@media screen and (max-width: 1130px){
+		.Logo-SanJuan{
+		transform:translateX(-40%); 
+		}
+}
+@media screen and (max-width: 1128px){
+		.iconprincipal{
+	    transform: rotate(160deg);
+		transform: translateX(-200px);
+		
+		}.logo-header{
+	width:400px;
+}
+}
+
+@media screen and (max-width: 1023px){
+	.Menu-Header-Somos,
+	.Marcacion-Nosotros,
+	.Menu-Header-Ubicacion,
+	.Menu-Header-Contactos-Empresa,
+	.Menu-Header-Servicios{
+		display: none;
+	}
+
+	}
+	@media screen and (min-width: 1023px){
+	  .Menu-Header-Generico{
+	  display: none;
+					 }
+	}
+
+@media screen and (max-width: 900px){
+.Menu-Header-Generico{
+	  transform: translateX(-280%);
+	}.sintillo1-Header-somos,.sintillo2-header-ubicacion,
+	.sintillo3-header-Contactos-Empresa,.sintillo4-header-Servicios{
+		display: none;
+
+	}
+	}
+
+	@media screen and (max-width: 890px){
+.Menu-Header-Generico{
+	  transform: translateX(-300%);
+	}
+}
+	@media screen and (max-width: 880px){
+.Menu-Header-Generico{
+	  transform: translateX(-310%);
+	}
+}
+	@media screen and (max-width: 870px){
+.Menu-Header-Generico{
+	  transform: translateX(-320%);
+	}
+}
+	@media screen and (max-width: 860px){
+.Menu-Header-Generico{
+	  transform: translateX(-330%);
+	}
+}
+	@media screen and (max-width: 850px){
+.Menu-Header-Generico{
+	  transform: translateX(-340%);
+	}
+}
+	@media screen and (max-width: 840px){
+.Menu-Header-Generico{
+	  transform: translateX(-350%);
+	}
+}
+
+	@media screen and (max-width: 830px){
+.Menu-Header-Generico{
+	  transform: translateX(-360%);
+	}
+}
+
+	@media screen and (max-width: 820px){
+.Menu-Header-Generico{
+	  transform: translateX(-370%);
+	}
+}
+	@media screen and (max-width: 810px){
+.Menu-Header-Generico{
+	  transform: translateX(-380%);
+	}
+}
+	@media screen and (max-width: 800px){
+.Menu-Header-Generico{
+	  transform: translateX(-390%);
+	}
+}
+	@media screen and (max-width: 790px){
+.Menu-Header-Generico{
+	  transform: translateX(-400%);
+	}
+}
+	@media screen and (max-width: 780px){
+.Menu-Header-Generico{
+	  transform: translateX(-410%);
+	}
+}
+	@media screen and (max-width: 770px){
+.Menu-Header-Generico{
+	  transform: translateX(-420%);
+	}
+}	@media screen and (max-width: 760px){
+.Menu-Header-Generico{
+	  transform: translateX(-430%);
+	}
+}	@media screen and (max-width: 750px){
+.Menu-Header-Generico{
+	  transform: translateX(-440%);
+	}
+}	@media screen and (max-width: 740px){
+.Menu-Header-Generico{
+	  transform: translateX(-450%);
+	}
+}	@media screen and (max-width: 730px){
+.Menu-Header-Generico{
+	  transform: translateX(-460%);
+	}
+}	@media screen and (max-width: 720px){
+.Menu-Header-Generico{
+	  transform: translateX(-470%);
+	}
+}	@media screen and (max-width: 710px){
+.Menu-Header-Generico{
+	  transform: translateX(-480%);
+	}
+}	@media screen and (max-width: 700px){
+.Menu-Header-Generico{
+	  transform: translateX(-490%);
+	}
+}
+	@media screen and (max-width: 690px){
+.Menu-Header-Generico{
+	  transform: translateX(-500%);
+	}
+}
+	@media screen and (max-width: 680px){
+.Menu-Header-Generico{
+	  transform: translateX(-510%);
+	}
+}
+@media screen and (max-width: 670px){
+.Menu-Header-Generico{
+	  transform: translateX(-520%);
+	}
+}
+@media screen and (max-width: 700px){
+.Logo-SanJuan{
+	  transform: translateX(-50%);
+	}
+}
+
+
+
+
+@media screen and (max-width: 1365.5px){
+	.Desarrollo-Login{
+		transform:translateX(-1%);
+
+	}
+}
+@media screen and (max-width: 1345px){
+	.Desarrollo-Login{
+		transform:translateX(-2%);
+
+	}
+}
+@media screen and (max-width: 1325px){
+	.Desarrollo-Login{
+		transform:translateX(-3%);
+
+	}
+}
+@media screen and (max-width: 1305px){
+	.Desarrollo-Login{
+		transform:translateX(-4%);
+
+	}
+}
+@media screen and (max-width: 1285px){
+	.Desarrollo-Login{
+		transform:translateX(-5%);
+
+	}
+}
+@media screen and (max-width: 1265px){
+	.Desarrollo-Login{
+		transform:translateX(-6%);
+
+	}
+}
+@media screen and (max-width: 1245px){
+	.Desarrollo-Login{
+		transform:translateX(-7%);
+
+	}
+}
+@media screen and (max-width: 1225px){
+	.Desarrollo-Login{
+		transform:translateX(-8.5%);
+
+	}
+}
+@media screen and (max-width: 1205px){
+	.Desarrollo-Login{
+		transform:translateX(-9.5%);
+
+	}
+}
+@media screen and (max-width: 1185px){
+	.Desarrollo-Login{
+		transform:translateX(-10.5%);
+
+	}
+}
+@media screen and (max-width: 1165px){
+	.Desarrollo-Login{
+		transform:translateX(-12.5%);
+
+	}
+}
+@media screen and (max-width: 1145px){
+	.Desarrollo-Login{
+		transform:translateX(-13.5%);
+
+	}
+}
+@media screen and (max-width: 1125px){
+	.Desarrollo-Login{
+		transform:translateX(-14.5%);
+
+	}
+}
+@media screen and (max-width: 1105px){
+	.Desarrollo-Login{
+		transform:translateX(-16.5%);
+
+	}
+}
+@media screen and (max-width: 1085px){
+	.Desarrollo-Login{
+		transform:translateX(-17.5%);
+
+	}
+}
+@media screen and (max-width: 1070px){
+	.Desarrollo-Login{
+		transform:translateX(-18.5%);
+
+	}
+}
+@media screen and (max-width: 1060px){
+	.Desarrollo-Login{
+		transform:translateX(-19.5%);
+
+	}
+}
+@media screen and (max-width: 1050px){
+	.Desarrollo-Login{
+		transform:translateX(-20%);
+
+	}
+}
+@media screen and (max-width: 1040px){
+	.Desarrollo-Login{
+		transform:translateX(-21.5%);
+
+	}
+}
+@media screen and (max-width: 1030px){
+	.Desarrollo-Login{
+		transform:translateX(-25%);
+
+	}
+}
+@media screen and (max-width: 981px){
+	.Desarrollo-Login{
+		transform:translateX(-27%);
+
+	}
+}
+@media screen and (max-width: 946px){
+	.Desarrollo-Login{
+		transform:translateX(-30%);
+
+	}
+}
+@media screen and (max-width: 885px){
+	.Desarrollo-Login{
+		transform:translateX(-32%);
+
+	}
+}
+@media screen and (max-width: 842px){
+	.Desarrollo-Login{
+		transform:translateX(-34%);
+
+	}
+}
+@media screen and (max-width: 812px){
+	.Desarrollo-Login{
+		transform:translateX(-35.7%);
+
+	}
+}
+@media screen and (max-width: 782px){
+	.Desarrollo-Login{
+		transform:translateX(-37.5%);
+
+	}
+}
+@media screen and (max-width: 768px){
+	.Desarrollo-Login{
+		transform:translateX(-38.7%);
+
+	}
+}
+@media screen and (max-width: 756px){
+	.Desarrollo-Login{
+		transform:translateX(-39.5%);
+
+	}
+}
+@media screen and (max-width: 739px){
+	.Desarrollo-Login{
+		transform:translateX(-40.5%);
+
+	}
+}
+
+
+
+

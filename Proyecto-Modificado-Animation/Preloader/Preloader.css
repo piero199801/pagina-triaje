@@ -1,0 +1,122 @@
+*{
+	
+	padding: 0;
+	box-sizing: border-box;
+ font-family: sans-serif;
+     background-attachment: fixed; 
+}
+body{
+	
+	font-family: sans-serif;
+	margin: 0;
+	background: url(imagenfondo.jpg);
+	background-size: cover;
+	background-attachment: fixed; 
+}
+.Preloader-General{
+	width: 100%;
+	height: 100%;
+	background:rgba(0,0,0,0.5);
+	position: absolute;
+	padding-top: 60px;
+}
+.Preloader-Padre{
+	width: 100%;
+	height: 490px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+.Predloader-Desarrollo-Seption-Logo-Buton-GDH{
+
+width: 450px;
+height: 100%;
+background:rgba(0,0,0,0.3);
+box-shadow: 0 1px 20px rgb(0 0 0 / 40%);
+border-radius:8px;
+box-shadow: 0px 2px 15px 1px #000000;
+}
+.Preloader-Logo{
+	width: 100%;
+	height: 40%;
+display: flex;
+align-items: center;
+justify-content: center;
+transition-property:width;
+transition-duration: 0.5s;
+}
+
+.Preloader-Logo img{
+	margin-top: 40px;
+}
+.Bton{
+transition-property:margin-left;
+transition-duration: 0.5s;
+width: 79%;
+margin-left: 47.5px;
+margin-top: 200px;
+
+}
+.button-mb{
+	border: none;
+	width: 100%;
+	height: 10%;
+	color: white;
+	font-size: 15px;
+	background: #09ADCE;
+	padding: 0px 0px;
+	border-radius: 5px;
+	cursor: pointer;
+	outline: inherit;
+	margin-top: -30%;
+	font-family:"Helvetica Neue", Arial, sans-serif;
+	transition-property:margin-top,background,font-size;
+	transition-duration: 0.5s,0.2s,0.2s;
+}
+.Nombre-Problema{
+	width: 60%;
+	text-align: center;
+	margin-left: 90px;
+
+	font-size: 13px;
+	color: #FFFFFF;
+	transition-property:margin-left;
+	transition-duration: 0.5s;
+}
+.Nombre-Problema b{
+color:#00add0;
+font-family:sans-serif;
+font-size: 14px; 
+}
+.Bar-Principal{
+	width: 100%;
+	height:10%;
+margin-top: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+.Bar-Menu{
+	text-align: center;
+	float: left;
+}
+
+.Bar-Menu img{
+	width: 45px;
+	height: 45px;
+	padding: 10px 10px;
+
+}
+.Bar-Menu p{
+	font-size: 0.840em;
+    color: #fff;
+    padding-top: 10px;
+    transition-property:padding-top;
+	transition-duration: 0.5s;
+  }
+  .button-mb:hover{
+	background:#0880AA;  
+	font-size: 16px;
+}

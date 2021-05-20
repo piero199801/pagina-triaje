@@ -1,0 +1,82 @@
+
+* {
+	box-sizing: border-box;
+}
+.contenedor{
+	width: 100%;
+	padding: 15px;
+	background: #FFFFFF;
+	margin-top: -70px;
+	height: 200px;
+}
+.Demarcado-Lineal-Contraseña{
+	width: 70%;
+	height: 1.4px;
+	background:#ffff;
+	margin-top: -12px;
+	margin-left: 15%;
+	transition-property:background;
+	transition-duration: 0.7s; 
+}
+.formulario{
+	background: #ffff;
+	padding:20px 5px;
+	margin: auto;
+		width: 340px;
+		height: 105%;
+      margin-left: 35px;
+      margin-right: 0px;
+      margin-top: -30px;
+      animation-name: animacionPrimera;
+      animation-duration: 0.2s,0.5s,0.5s,0.5s;
+      transition-delay: 0s,0s,0s,0.5s;
+		transition-property: margin-left,height,transform,box-shadow;
+		transition-duration: 0.2s,0.5s,0.5s,0.5s;
+		transition-delay: 0s,0s,0s,0.5s;
+}
+.formulario:hover{
+	margin-left: 45px;
+	height: 112%;
+	transform: translateY(-3.3%);
+    box-shadow: 0 1px 20px rgb(0 0 0 / 40%);
+ 
+}
+.input-contenedor{
+	margin-bottom: 12.5px;
+	width: 80%;
+	margin-left: 10%;
+	
+}
+.icon{
+	min-width: auto;
+	text-align: center;
+	color: #999;
+}
+.button{
+	border: none;
+	width: 56%;
+	color: white;
+	font-size: 15px;
+	background: #09ADCE;
+	padding: 8px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-top: 30px;
+    margin-left: 70px;
+    outline: inherit;
+}
+.button:hover{
+	background: #099BCE;
+}
+p{
+	text-align: center;
+
+}
+.link{
+	text-decoration: none;
+	color: #1a2537;
+	font-weight: 600;
+}
+.link hover{
+	background: cadetblue;
+}
